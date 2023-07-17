@@ -65,6 +65,11 @@ To use the Rashwanth Image Search Engine web application, follow these steps:
 - "Show more" button loads additional images for the same search query.
 
 - Responsive design with a clean and user-friendly interface.
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d6a8ff7-0ae4-49ee-a544-a6fbc60024af/deploy-status)](https://app.netlify.com/sites/jsprojects30-image-searching-app/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
