@@ -15,7 +15,7 @@ This is an image search engine web application. Users can search for images usin
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-Search-Engine/
+    https://rashwanthashok.github.io/Image-searching-app/
 ## Getting Started
 
 To use the Rashwanth Image Search Engine web application, follow these steps:
